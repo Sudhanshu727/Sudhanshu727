@@ -1,35 +1,14 @@
 # 👨‍💻 About Me
 
-I’m **Sudhanshu Shekhar**, a B.Tech **Electrical Engineering** student at **Delhi Technological University (DTU)** with a strong passion for **Machine Learning, AI Systems, Cybersecurity, and Data Engineering**.  
-I’m currently working as an **ML Research Intern** focusing on **Audio Signal Processing for Neurodegenerative Disease Detection**, where I build deep-learning pipelines using **RNNs, LSTMs, GNNs, NLP**, and **Librosa-based feature engineering**.
+I'm **Sudhanshu Shekhar**, a B.Tech Electrical Engineering student at **DTU**, passionate about **Machine Learning, Cybersecurity, and intelligent system design**.  
+I currently work as an **ML Research Intern**, building deep-learning pipelines for **medical audio diagnostics** using RNNs, LSTMs, GNNs, and advanced feature engineering.  
+I'm also a **Data Analyst Intern** at DTU-IIF, where I automate data pipelines and generate insights for startups.
 
-I also work as a **Data Analyst Intern** at **DTU Innovation & Incubation Foundation**, automating data pipelines and generating insights for real-world startup ecosystems.
-
-I love building AI tools, solving complex problems, and experimenting with multi-agent architectures, visual grounding, database intelligence systems, and time-series forecasting models.
-
----
-
-### 🔭 Currently Working On
-- Deep learning models for **medical audio diagnostics** (Alzheimer’s, Dysarthria, pneumonia, COVID-19)  
-- **Database Copilot** – a multi-agent NLP-to-MongoDB system with semantic search and automated analytics  
-- Advanced **object localization** using CLIP + ResNet50  
-
-### 🌱 Currently Learning
-- Graph Neural Networks, Advanced RAG pipelines, Distributed ML systems  
-- Penetration testing & offensive security fundamentals  
-- Scalable backend systems for AI-powered applications  
-
-### 🏆 Achievements
-- **Winner – HackLLM Hackathon @ Esya '25, IIIT Delhi**
-
-### 💬 Ask Me About
-- Machine Learning, Python, Audio Signal Processing  
-- C++, DSA, Cybersecurity basics  
-- Databases, MongoDB, NLP systems, Time-series modeling  
-
-### 📫 Contact
-**Email:** sudhanshus7907@gmail.com  
----
+- 🔭 Working on: Audio-based disease detection, NLP-to-Database systems  
+- 🌱 Learning: GNNs, RAG systems, Cybersecurity  
+- 🏆 Winner: HackLLM Hackathon @ Esya '25  
+- 💬 Ask me about: ML, Python, C++, DSA, MongoDB  
+- 📫 Email: sudhanshus7907@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudhanshu-shekhar-a341921b6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhanshus7907@gmail.com) 
