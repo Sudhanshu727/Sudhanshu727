@@ -6,7 +6,7 @@ I'm also a **Data Analyst Intern** at DTU-IIF, where I automate data pipelines a
 
 - 🔭 Working on: Audio-based disease detection, NLP-to-Database systems  
 - 🌱 Learning: GNNs, RAG systems, Cybersecurity  
-- 🏆 Winner: HackLLM Hackathon @ Esya '25 IIIT D 
+- 🏆 Winner: SHIELD 1.0 Hackathon, BPR&D, Ministry of Home Affairs | HackLLM Hackathon @ Esya '25 IIIT D 
 - 💬 Ask me about: ML, DSA, Python, C++, MongoDB, SQL  
 - 📫 Email: sudhanshus7907@gmail.com
 
